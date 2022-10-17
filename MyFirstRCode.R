@@ -7,6 +7,9 @@ Sys.setenv(language = "en")
 ## Install any package(say tidyverse)
 install.packages("tidyverse")
 
+## Call the library to  use the function
+library(tidyverse)
+
 ## Install multiple packages with one code
 install.packages(c("nycflights13", "gapminder", "Lahman"))
 
